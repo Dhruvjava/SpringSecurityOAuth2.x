@@ -1,0 +1,17 @@
+server:
+  port: 9099
+
+spring:
+  application:
+    name: SpringBootOAuth
+
+  security:
+    oauth2:
+      client:
+        registration:
+#          github:
+#            clientId: <clientID>
+#            clientSecret: <Secrete>
+#          google:
+#            clientId: <clientID>
+#            clientSecret: <Secrete>
